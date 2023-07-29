@@ -1,0 +1,8 @@
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment-8-Part1\ContactManagerService\ContactManagerDataService\bin\Debug\ContactManagerDataService.exe.config
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment-8-Part1\ContactManagerService\ContactManagerDataService\bin\Debug\ContactManagerDataService.exe
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment-8-Part1\ContactManagerService\ContactManagerDataService\bin\Debug\ContactManagerDataService.pdb
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment-8-Part1\ContactManagerService\ContactManagerDataService\obj\Debug\ContactManagerDataService.csproj.AssemblyReference.cache
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment-8-Part1\ContactManagerService\ContactManagerDataService\obj\Debug\ContactManagerDataService.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment-8-Part1\ContactManagerService\ContactManagerDataService\obj\Debug\ContactManagerDataService.csproj.CoreCompileInputs.cache
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment-8-Part1\ContactManagerService\ContactManagerDataService\obj\Debug\ContactManagerDataService.exe
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment-8-Part1\ContactManagerService\ContactManagerDataService\obj\Debug\ContactManagerDataService.pdb
