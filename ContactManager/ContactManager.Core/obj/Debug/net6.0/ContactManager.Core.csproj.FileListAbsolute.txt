@@ -1,0 +1,10 @@
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1302 Windows Prog (Nabil)\Assignment8\ContactManager\ContactManager.Core\obj\Debug\net6.0\ContactManager.Core.csproj.AssemblyReference.cache
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1302 Windows Prog (Nabil)\Assignment8\ContactManager\ContactManager.Core\obj\Debug\net6.0\ContactManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1302 Windows Prog (Nabil)\Assignment8\ContactManager\ContactManager.Core\obj\Debug\net6.0\ContactManager.Core.AssemblyInfoInputs.cache
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1302 Windows Prog (Nabil)\Assignment8\ContactManager\ContactManager.Core\obj\Debug\net6.0\ContactManager.Core.AssemblyInfo.cs
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1302 Windows Prog (Nabil)\Assignment8\ContactManager\ContactManager.Core\obj\Debug\net6.0\ContactManager.Core.csproj.CoreCompileInputs.cache
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment8\ContactManager\ContactManager.Core\obj\Debug\net6.0\ContactManager.Core.csproj.AssemblyReference.cache
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment8\ContactManager\ContactManager.Core\obj\Debug\net6.0\ContactManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment8\ContactManager\ContactManager.Core\obj\Debug\net6.0\ContactManager.Core.AssemblyInfoInputs.cache
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment8\ContactManager\ContactManager.Core\obj\Debug\net6.0\ContactManager.Core.AssemblyInfo.cs
+C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment8\ContactManager\ContactManager.Core\obj\Debug\net6.0\ContactManager.Core.csproj.CoreCompileInputs.cache

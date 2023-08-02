@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leoval Cabato\\OneDrive\\Documents\\3rd Sem Yr1\\1303 Client Server Computing (George)\\Assignment-8-Part1\\ContactManager\\ContactManager.Core\\ContactManager.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Leoval Cabato\\OneDrive\\Documents\\3rd Sem Yr1\\1303 Client Server Computing (George)\\Assignment8\\ContactManager\\ContactManager.Core\\ContactManager.Core.csproj",
       "projectName": "ContactManager.Core",
-      "projectPath": "C:\\Users\\Leoval Cabato\\OneDrive\\Documents\\3rd Sem Yr1\\1303 Client Server Computing (George)\\Assignment-8-Part1\\ContactManager\\ContactManager.Core\\ContactManager.Core.csproj",
+      "projectPath": "C:\\Users\\Leoval Cabato\\OneDrive\\Documents\\3rd Sem Yr1\\1303 Client Server Computing (George)\\Assignment8\\ContactManager\\ContactManager.Core\\ContactManager.Core.csproj",
       "packagesPath": "C:\\Users\\Leoval Cabato\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leoval Cabato\\OneDrive\\Documents\\3rd Sem Yr1\\1303 Client Server Computing (George)\\Assignment-8-Part1\\ContactManager\\ContactManager.Core\\obj\\",
+      "outputPath": "C:\\Users\\Leoval Cabato\\OneDrive\\Documents\\3rd Sem Yr1\\1303 Client Server Computing (George)\\Assignment8\\ContactManager\\ContactManager.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
