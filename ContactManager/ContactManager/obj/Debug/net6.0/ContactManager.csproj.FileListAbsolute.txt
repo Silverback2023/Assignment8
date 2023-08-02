@@ -33,8 +33,3 @@ C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1302 Windows Prog (Nabil)\
 C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1302 Windows Prog (Nabil)\Assignment8\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfoInputs.cache
 C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1302 Windows Prog (Nabil)\Assignment8\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfo.cs
 C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1302 Windows Prog (Nabil)\Assignment8\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.CoreCompileInputs.cache
-C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment8\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.AssemblyReference.cache
-C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment8\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment8\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfoInputs.cache
-C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment8\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.AssemblyInfo.cs
-C:\Users\Leoval Cabato\OneDrive\Documents\3rd Sem Yr1\1303 Client Server Computing (George)\Assignment8\ContactManager\ContactManager\obj\Debug\net6.0\ContactManager.csproj.CoreCompileInputs.cache
